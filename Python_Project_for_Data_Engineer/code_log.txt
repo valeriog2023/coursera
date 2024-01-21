@@ -1,0 +1,28 @@
+2024-Jan-20-23:38:49 : Starting ETL process: extract
+2024-Jan-20-23:38:49 : Extract complete. Starting: Transform
+2024-Jan-20-23:42:45 : Starting ETL process: extract
+2024-Jan-20-23:42:46 : Extract complete. Starting: Transform
+2024-Jan-20-23:54:40 : Starting ETL process: extract
+2024-Jan-20-23:54:40 : Extract complete. Starting: Transform
+2024-Jan-20-23:54:57 : Starting ETL process: extract
+2024-Jan-20-23:54:57 : Extract complete. Starting: Transform
+2024-Jan-20-23:55:32 : Starting ETL process: extract
+2024-Jan-20-23:57:04 : Starting ETL process: extract
+2024-Jan-20-23:57:04 : Extract complete. Starting: Transform
+2024-Jan-20-23:57:58 : Starting ETL process: extract
+2024-Jan-20-23:57:59 : Extract complete. Starting: Transform
+2024-Jan-20-23:58:42 : Starting ETL process: extract
+2024-Jan-20-23:58:52 : Starting ETL process: extract
+2024-Jan-20-23:58:52 : Extract complete. Starting: Transform
+2024-Jan-21-00:07:32 : Starting ETL process: extract
+2024-Jan-21-00:07:32 : Extract complete. Starting: Transform
+2024-Jan-21-00:51:19 : Preliminaries complete. Initiating ETL process
+2024-Jan-21-00:51:20 : Data extraction complete. Initiating Transformation process
+2024-Jan-21-00:52:26 : Preliminaries complete. Initiating ETL process
+2024-Jan-21-00:52:26 : Data extraction complete. Initiating Transformation process
+2024-Jan-21-00:52:26 : Data transformation complete. Initiating Loading process
+2024-Jan-21-00:52:26 : Data saved to CSV file
+2024-Jan-21-00:52:26 : SQL Connection initiated
+2024-Jan-21-00:52:26 : Data loaded to Database as a table, Executing queries
+2024-Jan-21-00:52:26 : Process Complete.
+2024-Jan-21-00:52:26 : Server Connection closed.
