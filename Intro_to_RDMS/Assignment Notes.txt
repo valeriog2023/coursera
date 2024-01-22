@@ -29,7 +29,8 @@ CREATE TABLE public.products
 );
 END;
 
-============== normalized to 
+============== normalized to :
+BEGIN;
 
 CREATE TABLE public.sales_transactions
 (
